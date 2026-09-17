@@ -236,7 +236,7 @@
     return `
       <div class="page-head">
         <div><h1>문의 접수 · 견적</h1><p class="sub">문의 등록 → 현장 확인 → 견적 → 고객 승인까지 한 화면에서 처리합니다.</p></div>
-        <button class="btn btn-primary" data-action="toggle-new-inquiry">+ 새 문의 등록</button>
+        <button class="btn btn-primary" data-action="toggle-new-inquiry">+ 새 문의 접수</button>
       </div>
 
       ${UI.showNewInquiry ? `
